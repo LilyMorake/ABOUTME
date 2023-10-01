@@ -5,10 +5,10 @@ Hello, welcome to my webpage.My name is Lily, I come from a beautiful country na
 
 # MY HOBBIES
 * So let me take you through some of my hobbies and interests;
-  * Reading interesting books
-  * Watching movies
-  * Taking walks
-  * Hanging out with friends and collegues 
+  *  Reading interesting books
+  *  Watching movies
+  *  Taking walks
+  *  Hanging out with friends and collegues 
 
 # CONTACT ME
 For more information contact me at:
