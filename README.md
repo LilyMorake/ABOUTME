@@ -8,8 +8,9 @@ Hello, welcome to my webpage. My name is Lily, I come from a beautiful country n
   *  Reading interesting books
   *  Watching movies
   *  Taking walks
-  *  Hanging out with friends and collegues
   *  Travelling
+  *  Hanging out with friends and collegues
+
 
 # CONTACT ME
 For more information or a little get to know you more, below are the contact details:
