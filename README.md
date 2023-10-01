@@ -7,5 +7,5 @@ Hello, welcome to my webpage.My name is Lily, I come from Botswana( Africa). I a
  * Hanging out with friends and collegues 
 
 # CONTACT ME
-for more information contact me at:
+For more information contact me at:
  * o.o.morake23@gmail.com
