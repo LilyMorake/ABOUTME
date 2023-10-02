@@ -16,7 +16,7 @@ For more information or a little get to know you more, below are the contact det
  * o.o.morake23@gmail.com
 
 
-BRIEF INTRODUCTION
+# BRIEF INTRODUCTION
 ===
 # Chapter 1
 Lots of text.
