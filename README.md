@@ -16,15 +16,13 @@ For more information or a little get to know you more, below are the contact det
  * o.o.morake23@gmail.com
 
 
-# BRIEF INTRODUCTION
-about myself
-===
-# Chapter 1
-Lots of text.
-___
-# Chapter 2
-some more texts
-___
-# Chapter 3
-additional text 
-===
+# ACTIVITIES
++ swimmimg
++ dancing
++ exercise
+
+# LANGUAGES
+-English
+-Setswana
+-Chinese
+
