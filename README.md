@@ -11,9 +11,7 @@ Hello, welcome to my webpage. My name is Lily, I come from a beautiful country n
   *  Taking walks
   *  Travelling
   *  Hanging out with friends and collegues
-===
-
-
+  ============================
 # CONTACT ME
 For more information or a little get to know you more, below are the contact details:
  * o.o.morake23@gmail.com
