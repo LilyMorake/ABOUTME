@@ -10,9 +10,9 @@ Hello, welcome to my webpage. My name is Lily, I come from a beautiful country n
 + exercise
 
 # LANGUAGES
--English
--Setswana
--Chinese
+- English
+- Setswana
+- Chinese
 # MY HOBBIES
 * My hobbies and interests includes;
   *  Reading interesting books
