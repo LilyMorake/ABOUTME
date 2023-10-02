@@ -24,7 +24,7 @@ Lots of text.
 ___
 # Chapter 2
 some more texts
----
+___
 # Chapter 3
 additional text 
 ===
