@@ -17,6 +17,7 @@ For more information or a little get to know you more, below are the contact det
 
 
 # BRIEF INTRODUCTION
+about myself
 ===
 # Chapter 1
 Lots of text.
