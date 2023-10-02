@@ -27,5 +27,13 @@ Hello, welcome to my webpage. My name is Lily, I come from a beautiful country n
 For more information or a little get to know you more, below are the contact details:
  * o.o.morake23@gmail.com
 
+# MORE CONTACTS
+1.Facebook
+2.Istagram
+3.Linkedin
+
+
+
+
 
 
