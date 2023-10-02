@@ -4,6 +4,15 @@ Hello, welcome to my webpage. My name is Lily, I come from a beautiful country n
 ![](https://github.com/LilyMorake/ABOUTME/blob/main/img3/LILYMOR.jpg)
                           YOU CAN ACHIEVE ANYTHING YOU PUT YOUR MIND TO!!
 
+# ACTIVITIES
++ swimmimg
++ dancing
++ exercise
+
+# LANGUAGES
+-English
+-Setswana
+-Chinese
 # MY HOBBIES
 * My hobbies and interests includes;
   *  Reading interesting books
@@ -16,13 +25,4 @@ For more information or a little get to know you more, below are the contact det
  * o.o.morake23@gmail.com
 
 
-# ACTIVITIES
-+ swimmimg
-+ dancing
-+ exercise
-
-# LANGUAGES
--English
--Setswana
--Chinese
 
